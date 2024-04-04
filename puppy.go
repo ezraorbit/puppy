@@ -18,6 +18,6 @@ func BigBark() string {
 	return dog.WhenGrownUps(grownUp())
 }
 
-func fromVersion() string {
+func FromVersion() string {
 	return "I'm from version 1.1.1"
 }
